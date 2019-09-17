@@ -1,2 +1,13 @@
-# OO_0624097
-My First Assignment
+# 戴琳靜
+
+## 0624097
+
+### 資管系三甲
+
+####　專題名稱：Project Name
+
+##### 小組成員：
+* 0624093 郭明眞
+* 0624097 戴琳靜
+
+###### My First Assignment
