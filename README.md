@@ -2,13 +2,13 @@
     {
       protected String color;
       public void setColor(string str)
-       {
-    color=str;
+      {
+        color=str;
       }
       public abstract void show();
-    }
-    class CTriangle extends CShape
-    {
+      }
+        class CTriangle extends CShape
+      {
       protected double a,b,c;
       public CTriangle(double a,double b,double c)
       {
@@ -20,7 +20,7 @@
      {
        System.out.print("color="+color+", ");
        System.out.println("area="0.5*a*b);
-      }
+     }
     }
     public class app11_1
     {
