@@ -12,7 +12,9 @@ class CTriangle extends CShape
   protected double a,b,c;
   public CTriangle(double a,double b,double c)
   {
-    a=3,b=4,c=5;
+    this a=a;
+    this b=b;
+    this c=c;
   }
   public void show()
   {
