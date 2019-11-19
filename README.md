@@ -29,5 +29,5 @@
         CTriangle rect=new CTriangle(3,4,5);
         rect.setColor("Red");
         rect.show();
-     }
+      }
     }
